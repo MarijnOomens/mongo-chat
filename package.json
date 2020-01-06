@@ -1,0 +1,24 @@
+{
+  "name": "mongo-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarijnOomens/mongo-chat.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarijnOomens/mongo-chat/issues"
+  },
+  "homepage": "https://github.com/MarijnOomens/mongo-chat#readme",
+  "dependencies": {
+    "mongodb": "^3.4.1",
+    "socket.io": "^2.3.0"
+  }
+}
